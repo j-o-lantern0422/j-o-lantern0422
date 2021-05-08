@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-:baby_chick:<a href="https://twitter.com/j_o_lantern0422" target="blank"></a>
+<a href="https://twitter.com/j_o_lantern0422" target="blank">:baby_chick:Twitter</a>
 
 <h3 align="left">My developing OSS tools.</h3>
 
